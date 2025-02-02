@@ -6,6 +6,7 @@ body {
 main {
     margin-left: auto;
     margin-right: auto;
+    padding: 20px;
 }
 
 .container {
@@ -33,10 +34,11 @@ main {
     font-family: 'Righteous';
     box-shadow: 1px 1px 30px black;
     border-radius: 8px;
+    padding: 40px;
 }
 
 #time, #date {
-    margin: 15px;
+    padding: 5px;
 }
 
 /* Media Queries*/
@@ -48,25 +50,26 @@ main {
     }
 }
 
-@media only screen and (max-width: 428px) {
+@media only screen and (max-width: 460px) {
     #clock {
-        width: 350px;
-        height: 200px;
-        font-size: 55px;
+        width: 300px;
+        height: 160px;
+        font-size: 45px;
     }
 }
 
-@media only screen and (max-width: 390px) {
+@media only screen and (max-width: 400px) {
     #clock {
-        width: 340px;
-        height: 200px;
-        font-size: 50px;
+        width: 260px;
+        height: 140px;
+        font-size: 40px;
     }
 }
 
 @media only screen and (max-width: 360px) {
     #clock {
-        width: 325px;
-        font-size: 45px;
+        width: 200px;
+        height: 100px;
+        font-size: 30px;
     }
 }
