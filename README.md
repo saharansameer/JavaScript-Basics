@@ -56,4 +56,4 @@ A simple Todo app that allows users to add tasks, mark them as done, and delete 
 
 ## Extra Info:
 - These Projects are inspired by Hitesh Choudhary's <a href="https://www.youtube.com/playlist?list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37" target="_blank">JavaScript Playlist</a>.
-- Deployed at: https://javascript-sameer.vercel.app
+- Deployed at: <a href="https://javascriptxsameer.vercel.app" target="_blank">`javascriptxsameer.vercel.app`</a>
